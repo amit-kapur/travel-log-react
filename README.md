@@ -4,3 +4,4 @@
 * nodeJs, express (JSON)
 * mongo DB
 * React
+* Mapbox
